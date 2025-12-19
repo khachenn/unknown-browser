@@ -19,9 +19,9 @@
 
 # -- Project information -----------------------------------------------------
 
-author = 'Brave Software'
-project = 'Brave browser'
-copyright = '2025, Brave Software'
+author = 'Unknown Software'
+project = 'Unknown browser'
+copyright = '2025, Unknown Software'
 
 # The short X.Y version
 version = ''
@@ -113,7 +113,7 @@ html_favicon = '_static/product_logo_32.png'
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'BraveBrowserdoc'
+htmlhelp_basename = 'UnknownBrowserdoc'
 
 html_css_files = ['custom.css']
 
@@ -142,8 +142,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'BraveBrowser.tex', 'Brave Browser Documentation',
-     'Brave Software', 'manual'),
+    (master_doc, 'BraveBrowser.tex', 'Unknown Browser Documentation',
+     'Unknown Software', 'manual'),
 ]
 
 
@@ -152,7 +152,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'bravebrowser', 'Brave Browser Documentation',
+    (master_doc, 'unknownbrowser', 'Unknown Browser Documentation',
      [author], 1)
 ]
 
@@ -163,8 +163,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'BraveBrowser', 'Brave Browser Documentation',
-     author, 'BraveBrowser', 'One line description of project.',
+    (master_doc, 'UnknownBrowser', 'Unknown Browser Documentation',
+     author, 'UnknownBrowser', 'One line description of project.',
      'Miscellaneous'),
 ]
 
